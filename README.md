@@ -21,6 +21,7 @@ Developing a model that detects chest x-rays with Pneumonia.
   the right upper lobe and has a focal lobar consolidation. On the other hand, viral pneumonia appears as a more diffuse ‘‘interstitial’’ pattern in both lungs.
 
 - **Source**:
+  
   [Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
   
 - **Content**:
