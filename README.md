@@ -4,7 +4,7 @@ Developing a model that detects chest x-rays with Pneumonia.
 **The aim of the project is to develop/train/test a CNN or use and fine-tune a pre-trained CNN model (this will depend on the accuracies) for Pneumonia chest-xrays detection.**
 
 **Members of the group:**
-1. Feras Rafeh
+- Feras Rafeh
 
 **Dataset info:**
 - **Context**:
