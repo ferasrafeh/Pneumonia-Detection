@@ -9,9 +9,9 @@ Developing a model that detects chest x-rays with Pneumonia.
 **Dataset info:**
 - **Context**:
   Pneumonia is an infection of the air sacs in one or both lungs. It is characterized by severe cough with phlegm, fever, chills and difficulty in breathing. It is   usually caused by bacteria or viruses. Pneumonia is usually treatable with antibiotics (if bacterial). If it is untreated it can lead to serious complications,     such as bacteremia (infection that spreads to the bloodstream), lung abscesses (pus formation in the lung cavities), impaired breathing (trouble getting enough     oxygen; ventilator may be required), acute respiratory distress syndrome (severe form of respiratory infection), and pleural effusion (fluid build-up in tissue     that lines the lungs).
-  It is a serious condition that can lead to hospitalization and even death. It is especially dangerous for young children, older adults, and people with weakened    immune systems.
-  Pneumonia is the single largest infectious cause of death in children worldwide. It kills more children younger than 5 years old each year than any other       
-  infectious disease, such as HIV infection, malaria, or tuberculosis.
+  Pneumonia is a serious condition that can lead to hospitalization and even death. It is especially dangerous for young children, older adults, and people with 
+  weakened immune systems. It is the single largest infectious cause of death in children worldwide. It kills more children younger than 5 years old each year than 
+  any other infectious disease, such as HIV infection, malaria, or tuberculosis.
 
   ![jZqpV51](https://github.com/ferasrafeh/Pneumonia-Detection/assets/122606184/c783da9f-3882-4c6d-9a5b-d39fbe16be0c)
 
