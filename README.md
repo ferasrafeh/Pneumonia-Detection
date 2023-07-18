@@ -8,6 +8,7 @@ Developing a model that detects chest x-rays with Pneumonia.
 
 **Dataset info:**
 - **Context**:
+  
   Pneumonia is an infection of the air sacs in one or both lungs. It is characterized by severe cough with phlegm, fever, chills and difficulty in breathing. It is   usually caused by bacteria or viruses. Pneumonia is usually treatable with antibiotics (if bacterial). If it is untreated it can lead to serious complications,     such as bacteremia (infection that spreads to the bloodstream), lung abscesses (pus formation in the lung cavities), impaired breathing (trouble getting enough     oxygen; ventilator may be required), acute respiratory distress syndrome (severe form of respiratory infection), and pleural effusion (fluid build-up in tissue     that lines the lungs).
   
   Pneumonia is a serious condition that can lead to hospitalization and even death. It is especially dangerous for young children, older adults, and people with 
@@ -22,6 +23,7 @@ Developing a model that detects chest x-rays with Pneumonia.
 - **Source**: [Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
   
 - **Content**:
+  
   The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images   
   (JPEG) and 2 categories (Pneumonia/Normal).
 
